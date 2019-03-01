@@ -1,0 +1,12 @@
+E:\Kumpulan Project VB Net\Base64\Base64\bin\Debug\Base64.exe
+E:\Kumpulan Project VB Net\Base64\Base64\bin\Debug\Base64.pdb
+E:\Kumpulan Project VB Net\Base64\Base64\bin\Debug\Base64.xml
+E:\Kumpulan Project VB Net\Base64\Base64\obj\x86\Debug\Base64.Form1.resources
+E:\Kumpulan Project VB Net\Base64\Base64\obj\x86\Debug\Base64.Resources.resources
+E:\Kumpulan Project VB Net\Base64\Base64\obj\x86\Debug\Base64.vbproj.GenerateResource.Cache
+E:\Kumpulan Project VB Net\Base64\Base64\obj\x86\Debug\Base64.exe
+E:\Kumpulan Project VB Net\Base64\Base64\obj\x86\Debug\Base64.xml
+E:\Kumpulan Project VB Net\Base64\Base64\obj\x86\Debug\Base64.pdb
+E:\Code Isi Blogspot\Base64\Base64\obj\x86\Debug\Base64.exe
+E:\Code Isi Blogspot\Base64\Base64\obj\x86\Debug\Base64.xml
+E:\Code Isi Blogspot\Base64\Base64\obj\x86\Debug\Base64.pdb
